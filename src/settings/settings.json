@@ -1,0 +1,5 @@
+{
+	"is_show_connect_message": true,
+	"server_pause_message": "The server is stopped.",
+	"is_show_old_messages": false
+}
